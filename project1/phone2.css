@@ -1,0 +1,114 @@
+#navbar ul li a {
+   
+    MARGIN: 0PX 0PX 0PX 0PX;
+    padding: 15px 8PX 15PX 8PX;
+}
+/* #home {
+
+    height: 188px;
+} */
+.TaG{
+    margin: 0px 0px;
+}
+#navbar ul li {
+    
+    font-size: .8rem;
+} 
+ a.Brand.center {
+    margin: 0px 0px 0px 0px;
+    padding: 13px 0px 0px 0px;
+    font-size: 2.5em;
+    
+}
+.Tag {
+    font-size: 1.4rem;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 15px 0px;
+    
+}
+.btn {
+    padding: 3px 15px;
+    border-radius: 0px 25px 25px 25px;
+    font-size: .8rem;
+    
+    margin: 0px 0px 0px 0px;
+    
+    
+}
+.services{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div.box{
+    padding: 10px 35px 0px 40px;
+    margin: 0PX 0PX 30PX 0PX;
+    width: 16rem;
+}
+.card-title{
+    font-size: 2.3rem;
+}                              
+.Show img{
+    height: 275px;
+}
+.white{
+    font-size: .8rem;
+}
+th{
+    font-size: 1.1rem;
+}
+td{
+    font-size: .8rem;
+}
+.products h5{
+    font-size: 2.2rem;
+}
+.display-prime{
+    margin: 10px 20px 10px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+  .edited-card{
+    margin: 5px 10px 10px 10px;
+    padding: 5px 10px 5px 10px;
+    width: 10rem;
+  }
+  .alex{
+    font-family: "Alex Brush";
+    color: red;
+    font-size: 1.5rem;
+  }
+  .show img {
+    height: auto;
+    padding: 10px 40px 10px 40px;
+}
+.veg img {
+    width: 1rem;
+}
+.alert-secondary {
+    background-color: #fcc3ca;
+    display: flex;
+    flex-direction: row;
+    font-size: .8rem;
+}
+.serve{
+    font-size: 2.5em;
+}
+.abtcnt {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0.5em 5rem 2rem 5rem;
+    padding: 15px 10px 30px 10px;
+}
+.txt {
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Mate SC', serif;
+}
+.profile img {
+    height: 20rem;
+}
